@@ -1,4 +1,4 @@
-# ecommerce-backend
+# E-Commerce Back-End
 
 ## Description
 
@@ -76,7 +76,11 @@ npm start
 ```
 Users can then run the application in Insomnia to GET data for each route(categories, products, or tags) as well as CREATE, UPDATE, and DELETE data in those routes.
 
-Follow this link for a video walk-through of the application: https://youtu.be/i1qySDWJAME
+Follow this link for a video walk-through of the application: https://youtu.be/2JfxCI7Ic4s
+
+<img src="./assets/GET categories.png">
+<img src="./assets/GET products.png">
+<img src="./assets/GET tags.png">
 
 ## Credits
 
